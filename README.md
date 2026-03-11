@@ -20,8 +20,8 @@ Se divide el dataset en 80% entrenamiento y 20% prueba utilizando estratificaci�
 Se aplica StandardScaler para la Regresión Logística. Random Forest no requiere normalización.
 
 Modelos entrenados
-Regresión Logística
-Random Forest
+- Regresión Logística
+- Random Forest
 
 Evaluación
 Se utilizan las métricas:
