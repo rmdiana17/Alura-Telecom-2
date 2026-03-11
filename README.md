@@ -39,9 +39,7 @@ Variables más relevantes
 
 Los factores con mayor influencia en la predicción de churn incluyen:
 tenure
-Monthly Charges
-contrato Month-to-month
-
-servicio Fiber optic
-
-método de pago Electronic check
+- Monthly Charges
+- contrato Month-to-month
+- servicio Fiber optic
+- método de pago Electronic check
